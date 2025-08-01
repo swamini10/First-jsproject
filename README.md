@@ -49,4 +49,7 @@
     Step 2: Computer displays a growing random sequence.
     Step 3: Player repeats the sequence.
     Step 4: Game checks input; continues or resets.
-    Step 5 (Optional): Player wins after set number of rounds.
+    Step 5  Player wins after high Score🏆.
+
+
+    
