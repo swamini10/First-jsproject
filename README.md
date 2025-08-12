@@ -52,4 +52,8 @@
     Step 5  Player wins after high Score🏆.
 
 
+    <img width="1917" height="914" alt="start" src="https://github.com/user-attachments/assets/b34b49e8-fd63-405c-9f8d-a0c92a9d0286" />
+
+
+
     
